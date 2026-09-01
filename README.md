@@ -37,14 +37,6 @@ I'm a passionate full-stack developer dedicated to crafting clean, efficient cod
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=workwithchris&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=workwithchris&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 🎯 What I'm Doing Now
 
 - 🔭 Building innovative web applications
