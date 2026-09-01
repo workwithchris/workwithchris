@@ -56,7 +56,6 @@ Check out more projects at [@packages-by-chris](https://github.com/packages-by-c
 **Tools & Skills:**
 - Git, GitHub, Version Control
 - RESTful APIs, Database Design
-- Open Source Development
 
 ---
 
@@ -66,7 +65,4 @@ Check out more projects at [@packages-by-chris](https://github.com/packages-by-c
 🌐 [christhapa.com.np](https://christhapa.com.np)  
 💻 [GitHub](https://github.com/workwithchris)  
 🔗 [@packages-by-chris](https://github.com/packages-by-chris)
-
----
-
-*Last updated: September 2026*
+🌐 [packages doc site](https:/packages.christhapa.com.np)
