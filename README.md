@@ -10,9 +10,9 @@ Full stack developer building real things. Based in Nepal, working remotely.
 3D free-roam world built from OpenStreetMap and elevation data in Godot. Working on drivable mechanics and world interaction.  
 → GDScript, Godot 4
 
-**[Guitar Chords App](https://github.com/workwithchris/guitar-chords)** · [Live](https://guitar-chords-weld.vercel.app)  
-Chord reference tool for quick lookup. Built and deployed.  
-→ Full stack
+**[Packages](https://www.npmjs.com/~workwithchris)**  
+Open source packages published on npm for web development.  
+→ Node.js, TypeScript
 
 ---
 
