@@ -65,4 +65,4 @@ Check out more projects at [@packages-by-chris](https://github.com/packages-by-c
 🌐 [christhapa.com.np](https://christhapa.com.np)  
 💻 [GitHub](https://github.com/workwithchris)  
 🔗 [@packages-by-chris](https://github.com/packages-by-chris)
-🌐 [packages.christhapa.com.np](https:/packages.christhapa.com.np)
+🌐 [packages.christhapa.com.np](https://packages.christhapa.com.np)  
