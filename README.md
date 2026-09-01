@@ -2,6 +2,14 @@
 
 Full stack developer building real things. Based in Nepal, working remotely.
 
+**Full Stack Developer | TypeScript | React | Node.js | Godot 4 | Open Source Contributor**
+
+---
+
+## About Me
+
+I'm Chris Thapa (also known as christhapa or Thapa), a full stack developer passionate about building innovative solutions. I specialize in web development, game development with Godot, and creating utility libraries for the Nepali developer community.
+
 ---
 
 ## Recent Work
@@ -31,9 +39,12 @@ Check out more projects at [@packages-by-chris](https://github.com/packages-by-c
 
 ## What I Actually Use
 
-**Frontend:** React, TypeScript, Tailwind  
+**Frontend:** React, TypeScript, Tailwind CSS  
 **Backend:** Node.js, Express, PostgreSQL  
-**Tools:** Git, Docker, Vercel
+**Game Dev:** Godot 4, GDScript  
+**Tools:** Git, Docker, Vercel, TypeScript
+
+**Keywords:** JavaScript, TypeScript, Full Stack Development, React Developer, Node.js, Web Development, Godot Game Development, Open Source
 
 ---
 
