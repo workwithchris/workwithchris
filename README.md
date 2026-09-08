@@ -14,10 +14,6 @@ I'm Chris Thapa (also known as christhapa or Thapa), a full stack developer pass
 
 ## Recent Work
 
-**[Guitar Chords](https://github.com/workwithchris/guitar-chords)**  
-Interactive guitar chord reference application built with modern web technologies.  
-→ React, TypeScript, PostgreSQL, Vercel
-
 **[Nepali Utils Core](https://github.com/packages-by-chris/nepali-utils-core)**  
 Framework-agnostic TypeScript library for Bikram Sambat date operations, number conversion, calendar utilities, location data, and more.  
 → TypeScript, Open Source
